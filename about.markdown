@@ -8,8 +8,12 @@ Hello there! My name is Prxem but you can just call me Prem for short! I am an a
 developer and founder of False Reality, an Indie Development team aiming to bring innovative and
 new experiences to the masses!
 
-This is just my blog though, I'll just be using this as what you could essentially call a testbench
-for how Jekyll, the backend of this site, works and just general updates on what I'm upto and what
-I'm currently working on.
+I am always looking to learn new skills, which is why I put this site together in order to broaden
+what I am capable of as the space of PCs, programming and things assosiated with that are ever-changing!
+On this site you can learn more about what I'm upto at any given time, what projects I'm working on and
+other assosrted things.
 
-Thank you!
+I guess you could just call this page a testbench then? I'll see what happens, but having this is better
+than not having one at all I guess.
+
+Thank you for reading!
