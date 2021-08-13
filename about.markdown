@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there! My name is Prxem but you can just call me Prem for short! I am an aspiring software
+developer and founder of False Reality, an Indie Development team aiming to bring innovative and
+new experiences to the masses!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is just my blog though, I'll just be using this as what you could essentially call a testbench
+for how Jekyll, the backend of this site, works and just general updates on what I'm upto and what
+I'm currently working on.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thank you!
