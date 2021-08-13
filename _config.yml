@@ -31,7 +31,8 @@ twitter_username: PrxemGameDev
 github_username:  PremonitionDev
 
 # Build settings
-theme: minima
+# Removed Minima Theme as it is now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
