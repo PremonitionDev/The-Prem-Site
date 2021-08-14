@@ -30,6 +30,11 @@ url: "https://premonitiondev.github.io" # the base hostname & protocol for your 
 twitter_username: PrxemGameDev
 github_username:  PremonitionDev
 
+# Fields that minima uses but aren't defaulted/assigned here from the get-go
+author: Prxem
+youtube_username: Prxem
+show_excerpts: true
+
 # Build settings
 # Removed Minima Theme as it is now a regular theme
 # theme: minima
